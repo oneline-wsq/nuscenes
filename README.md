@@ -5,10 +5,9 @@ This code allows you to generate sentence label based on nuScenes dataset. The c
 Inspired by this, we decided to build and train a similar model on a publicly available dataset. This repository is focused on the preliminary data preparation and the generation of the labels required for network training.
 
 ## Data processing flow
-![image](https://github.com/oneline-wsq/nuscenes/blob/master/the%20pipeline%20of%20scentence%20label%20generation.png)
 
 <div align=center>
-<img src="https://github.com/oneline-wsq/nuscenes/blob/master/the%20pipeline%20of%20scentence%20label%20generation.png" width="200" > 
+<img src="https://github.com/oneline-wsq/nuscenes/blob/master/the%20pipeline%20of%20scentence%20label%20generation.png" width="500" > 
 </div>
 
 1. Find the map patch corresponding to the current frame according to ego pose;
@@ -20,7 +19,8 @@ Inspired by this, we decided to build and train a similar model on a publicly av
 The final generated result is shown in the following figure.
 
 <div align=center>
-<img src="https://github.com/oneline-wsq/nuscenes/blob/master/visible%20data/0.jpg?raw=true" width="300"><img src="https://github.com/oneline-wsq/nuscenes/blob/master/visible%20data/2.jpg?raw=true" width="300"> 
+<img src="https://github.com/oneline-wsq/nuscenes/blob/master/visible%20data/0.jpg?raw=true" width="500"><img src="https://github.com/oneline-wsq/nuscenes/blob/master/visible%20data/2.jpg?raw=true" width="500"> 
+<img src="https://github.com/oneline-wsq/nuscenes/blob/master/visible%20data/33.jpg?raw=true" width="500"><img src="https://github.com/oneline-wsq/nuscenes/blob/master/visible%20data/35.jpg?raw=true" width="500"> 
 </div>
 
 
