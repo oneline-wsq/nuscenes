@@ -19,8 +19,8 @@ Inspired by this, we decided to build and train a similar model on a publicly av
 The final generated result is shown in the following figure.
 
 <div align=center>
-<img src="https://github.com/oneline-wsq/nuscenes/blob/master/visible%20data/0.jpg?raw=true" width="500"><img src="https://github.com/oneline-wsq/nuscenes/blob/master/visible%20data/2.jpg?raw=true" width="500"> 
-<img src="https://github.com/oneline-wsq/nuscenes/blob/master/visible%20data/33.jpg?raw=true" width="500"><img src="https://github.com/oneline-wsq/nuscenes/blob/master/visible%20data/35.jpg?raw=true" width="500"> 
+<img src="https://github.com/oneline-wsq/nuscenes/blob/master/visible%20data/0.jpg?raw=true" width="800"><img src="https://github.com/oneline-wsq/nuscenes/blob/master/visible%20data/2.jpg?raw=true" width="800"> 
+<img src="https://github.com/oneline-wsq/nuscenes/blob/master/visible%20data/33.jpg?raw=true" width="800"><img src="https://github.com/oneline-wsq/nuscenes/blob/master/visible%20data/35.jpg?raw=true" width="800"> 
 </div>
 
 
