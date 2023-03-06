@@ -7,6 +7,10 @@ Inspired by this, we decided to build and train a similar model on a publicly av
 ## Data processing flow
 ![image](https://github.com/oneline-wsq/nuscenes/blob/master/the%20pipeline%20of%20scentence%20label%20generation.png)
 
+<div align=center>
+<img src="https://github.com/oneline-wsq/nuscenes/blob/master/the%20pipeline%20of%20scentence%20label%20generation.png" width="200" > 
+</div>
+
 1. Find the map patch corresponding to the current frame according to ego pose;
 2. Intercept the lane + lane connector in the map patch;
 3. Find the key point according to the incoming degree & outcoming degree provided by the connectivity;
@@ -16,7 +20,7 @@ Inspired by this, we decided to build and train a similar model on a publicly av
 The final generated result is shown in the following figure.
 
 <div align=center>
-<img src="https://github.com/oneline-wsq/nuscenes/blob/master/visible%20data/0.jpg?raw=true" width="180" height="105"> width="180" height="105"/>
+<img src="https://github.com/oneline-wsq/nuscenes/blob/master/visible%20data/0.jpg?raw=true" width="300"><img src="https://github.com/oneline-wsq/nuscenes/blob/master/visible%20data/2.jpg?raw=true" width="300"> 
 </div>
 
 
