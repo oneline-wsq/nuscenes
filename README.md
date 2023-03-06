@@ -15,6 +15,10 @@ Inspired by this, we decided to build and train a similar model on a publicly av
 
 The final generated result is shown in the following figure.
 
+<center class="half">
+    <img src="[https://img-blog.csdn.net/2018061215200776?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzIxODA4OTYx/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70](https://github.com/oneline-wsq/nuscenes/blob/master/visible%20data/0.jpg)" width="200"/><img src="[https://img-blog.csdn.net/20180612152032532?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzIxODA4OTYx/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70](https://github.com/oneline-wsq/nuscenes/blob/master/visible%20data/2.jpg)" width="200"/>
+      <img src="[https://img-blog.csdn.net/2018061215200776?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzIxODA4OTYx/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70](https://github.com/oneline-wsq/nuscenes/blob/master/visible%20data/33.jpg)" width="200"/><img src="[https://img-blog.csdn.net/20180612152032532?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzIxODA4OTYx/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70](https://github.com/oneline-wsq/nuscenes/blob/master/visible%20data/35.jpg)" width="200"/>
+
 
 ## Prediction Process
 
