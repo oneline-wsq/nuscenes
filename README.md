@@ -25,7 +25,3 @@ The final generated result is shown in the following figure.
 
 
 
-## Prediction Process
-
-We have also made a tiny video of the prediction process. You can get a more intuitive understanding.
-
